@@ -1,5 +1,5 @@
 def run_guessing_game
-  game_num = rand(6) + 1
+  game_num = rand(7) + 1
   #puts "Pick a number between 1 and 6."
   user_num = gets.chomp
   if user_num == game_num

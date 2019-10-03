@@ -1,5 +1,5 @@
 def run_guessing_game
-  game_num = rand(1..6)
+  game_num = rand(7)
   user_num = gets.chomp
   if user_num == game_num
     puts "You guessed the correct number!"

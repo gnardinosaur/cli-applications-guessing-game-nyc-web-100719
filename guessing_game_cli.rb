@@ -12,3 +12,4 @@
 #end
 
 input = gets 
+p input

@@ -11,4 +11,4 @@ def run_guessing_game
   end
 end
 
-rand(7)
+p rand(7)
